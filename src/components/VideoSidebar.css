@@ -1,0 +1,16 @@
+.iconn{
+    height: 25px;
+}
+.videoSidebar{
+    position: absolute;
+    top: 45%;
+    right: 10px;
+    color: white;
+}
+.videosidebar__button{
+    padding: 20px;
+    text-align: center;
+}
+.videosidebar__button p{
+    margin: -7px;
+}
